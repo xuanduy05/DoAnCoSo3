@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Quan ly"
+            android:visible="false"
+            android:id="@+id/quanly">
+            <menu>
+                <item android:id="@+id/nav_User"
+                    android:icon="@drawable/thanhvien"
+                    android:title="Quan ly thanh vien" />
+                <item android:id="@+id/nav_MonAn"
+                    android:icon="@drawable/quanlysach"
+                    android:title="Quan ly Mon An" />
+                <item android:id="@+id/nav_DanhMuc"
+                    android:icon="@drawable/loaisach"
+                    android:title="Quan ly danh muc" />
+                <item android:id="@+id/nav_LoaiNguoiDung"
+                    android:icon="@drawable/group"
+                    android:title="Quan ly loai nguoi dung"/>
+                <item android:id="@+id/nav_DatBan"
+                    android:icon="@drawable/notebook"
+                    android:title="Quan ly dat ban"/>
+                <item android:id="@+id/nav_Phong"
+                    android:icon="@drawable/book"
+                    android:title="Quan ly phong"/>
+                <item android:id="@+id/nav_LoaiPhong"
+                    android:icon="@drawable/book"
+                    android:title="Quan ly loai phong"/>
+                <item android:id="@+id/nav_DatMonAN"
+                    android:icon="@drawable/book"
+                    android:title="Quan ly dat mon"/>
+
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item android:id="@+id/menuFragment"
+            android:icon="@drawable/book"
+            android:title="Menu"/>
+        <item
+            android:id="@+id/menuCartFragment"
+            android:icon="@drawable/ic_shopping_cart_24"
+            android:title="Cart" />
+        <item android:title="Nguoi dung">
+            <menu>
+                <item
+                    android:id="@+id/sub_AddUser"
+                    android:visible="false"
+                    android:icon="@drawable/themnguoidung"
+                    android:title="Thêm người dùng"/>
+                <item
+                    android:icon="@drawable/key"
+                    android:id="@+id/sub_Pass"
+                    android:title="Đổi mật khẩu"/>
+                <item
+                    android:id="@+id/sub_Login"
+                    android:icon="@drawable/login"
+                    android:title="Logout"/>
+
+            </menu>
+        </item>
+        <item android:title="About us">
+            <menu>
+                <item
+                    android:id="@+id/aboutFragment"
+                    android:title="About"
+                    android:icon="@drawable/about_icon_48" />
+            </menu>
+        </item>
+    </group>
+</menu>

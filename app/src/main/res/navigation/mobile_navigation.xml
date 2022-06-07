@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.doancoso3.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.doancoso3.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.doancoso3.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_MonAn"
+        android:name="com.example.doancoso3.fragment.MonAnFragment"
+        android:label="Quan Ly Mon An"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_monan" />
+    <fragment
+        android:id="@+id/nav_User"
+        android:name="com.example.doancoso3.fragment.UserFragment"
+        android:label="Quan ly thanh vien"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/sub_AddUser"
+        android:name="com.example.doancoso3.fragment.UserFragment"
+        android:label="Thêm người dùng"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_add_user"
+        />
+    <fragment android:id="@+id/nav_DanhMuc"
+        android:name="com.example.doancoso3.fragment.DanhMucFragment"
+        android:label="Quan ly danh muc"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_danhmuc"
+        />
+    <fragment android:id="@+id/nav_LoaiNguoiDung"
+        android:name="com.example.doancoso3.fragment.LoaiNguoiDungFragment"
+        android:label="Quan ly loai nguoi dung"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_loainguoidung"/>
+    <fragment android:id="@+id/nav_DatBan"
+        android:name="com.example.doancoso3.fragment.DatBanFragment"
+        android:label="Quan ly dat ban"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_datban"/>
+    <fragment android:id="@+id/nav_Phong"
+        android:name="com.example.doancoso3.fragment.PhongFragment"
+        android:label="Quan ly phong"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_phong"/>
+    <fragment android:id="@+id/nav_LoaiPhong"
+        android:name="com.example.doancoso3.fragment.LoaiPhongFragment"
+        android:label="Quan ly loai phong"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_loaiphong"/>
+    <fragment android:id="@+id/nav_DatMonAN"
+        android:name="com.example.doancoso3.fragment.DatMonAnFragment"
+        android:label="Quan ly dat mon an"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_datmonan"/>
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.doancoso3.MenuFragment"
+        android:label="Menu"
+        android:fontFamily="@font/poppinsmedium"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/menuMonAnFragment"
+        android:name="com.example.doancoso3.MenuMonAnFragment"
+        android:label="fragment_menu_mon_an"
+        tools:layout="@layout/fragment_menu_mon_an" />
+    <fragment
+        android:id="@+id/menuPhongFragment"
+        android:name="com.example.doancoso3.MenuPhongFragment"
+        android:label="fragment_menu_phong"
+        tools:layout="@layout/fragment_menu_phong" />
+    <fragment
+        android:id="@+id/monAnSliderrFragment"
+        android:name="com.example.doancoso3.MonAnSliderrFragment"
+        android:label="fragment_mon_an_sliderr"
+        tools:layout="@layout/fragment_mon_an_sliderr" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.doancoso3.AboutFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/menuCartFragment"
+        android:name="com.example.doancoso3.MenuCartFragment"
+        android:label="fragment_menu_cart"
+        tools:layout="@layout/fragment_menu_cart" />
+    <fragment
+        android:id="@+id/cartOrder1Fragment"
+        android:name="com.example.doancoso3.CartOrder1Fragment"
+        android:label="fragment_cart_order1"
+        tools:layout="@layout/fragment_cart_order1" />
+    <fragment
+        android:id="@+id/sub_Login"
+        android:name="com.example.doancoso3.HomeFragment"
+        tools:layout="@layout/fragment_home"
+        android:label="Log Out"
+        />
+    <fragment
+        android:id="@+id/cartOrder2Fragment"
+        android:name="com.example.doancoso3.CartOrder2Fragment"
+        android:label="fragment_cart_order2"
+        tools:layout="@layout/fragment_cart_order2" />
+    <fragment
+        android:id="@+id/cartsl"
+        android:name="com.example.doancoso3.CartOrder1Fragment"
+        android:label="fragment_cart_order1"
+        tools:layout="@layout/fragment_cart_order1" />
+</navigation>

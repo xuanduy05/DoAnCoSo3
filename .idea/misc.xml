@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24351851851851852" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_about.xml" value="0.190625" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button3.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button4.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button5.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button6.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button7.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button8.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button9.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button_add.xml" value="0.26615384615384613" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button_cart.xml" value="0.18854166666666666" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_button_check.xml" value="0.2552083333333333" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_buttont2.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_cartsl.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_icon_about.xml" value="0.190625" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/background_layout.xml" value="0.23148148148148148" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/bg_indicator_3.xml" value="0.26615384615384613" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/boderliss.xml" value="0.1578125" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/cancel.xml" value="0.190625" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/doanhthu.xml" value="0.190625" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giao_dien_slider.xml" value="0.2703125" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien.xml" value="0.15364583333333334" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien1.xml" value="0.2276923076923077" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien2.xml" value="0.1578125" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien3.xml" value="0.2276923076923077" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien4.xml" value="0.19010416666666666" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien5.xml" value="0.19010416666666666" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien6.xml" value="0.2276923076923077" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/giaodien_anh_slider.xml" value="0.1578125" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/home.xml" value="0.14010416666666667" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.14010416666666667" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.24722222222222223" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/ic_remove_24.xml" value="0.1675925925925926" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/imgstyle.xml" value="0.1527777777777778" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/nen.xml" value="0.15364583333333334" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/drawable/thanhvien.xml" value="0.1578125" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/font/lobster.xml" value="0.2046875" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/activity_splash_screen.xml" value="0.17395833333333333" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/app_bar_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/cart_item_oder1.xml" value="0.264" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/cointain_main4.xml" value="0.23550724637681159" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/contain_main3.xml" value="0.24909420289855072" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/content_main.xml" value="0.16" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/content_main1.xml" value="0.24048913043478262" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/danhmuc_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/danhmuc_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/danhmuc_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/datban_dialog.xml" value="0.152" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/datban_item.xml" value="0.1984375" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/datmonan_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/datmonan_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_add_user.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_cart_order1.xml" value="0.12817028985507245" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_cart_order2.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_danhmuc.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_datban.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_datmonan.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_gallery.xml" value="0.12360688956433637" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_loainguoidung.xml" value="0.264" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_loaiphong.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_menu_cart.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_menu_mon_an.xml" value="0.25416666666666665" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_menu_phong.xml" value="0.25416666666666665" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_mon_an_sliderr.xml" value="0.6" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_monan.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_phong.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_slideshow.xml" value="0.12158054711246201" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loainguoidung_dialog.xml" value="0.12360688956433637" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loainguoidung_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loainguoidung_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loaiphong_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loaiphong_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/loaiphong_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/menu_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/menu_phong_item.xml" value="0.23550724637681159" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/monan_card_layout.xml" value="0.23550724637681159" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/monan_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/monan_item.xml" value="0.21920289855072464" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/monan_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/monan_slider_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/nav_header_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/notification_cart.xml" value="0.4" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/phong_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/phong_item.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/phong_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/slider_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/slider_monan_layout.xml" value="0.2046875" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/user_dialog.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/user_item.xml" value="0.264" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/layout/user_item_spinner.xml" value="0.1" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/menu/activity_main_drawer.xml" value="0.11538461538461539" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/menu/main.xml" value="0.264" />
+        <entry key="..\:/nam_2_ki_2/lap_trinh_di_dong/DoAnCoSo3/app/src/main/res/menu/main_activity3.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
